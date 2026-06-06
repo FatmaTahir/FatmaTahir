@@ -49,8 +49,8 @@ I love building clean, scalable web apps and integrating intelligent features in
 
 ##  Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-tahir-a77182336)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatimahtahir452@gmail.com)
+[![LinkedIn]   (https://linkedin.com/in/fatima-tahir-a77182336)
+[![Email]     (mailto:fatimahtahir452@gmail.com)
 
 ---
 
