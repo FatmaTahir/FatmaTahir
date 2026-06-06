@@ -1,7 +1,7 @@
 # Hi, I'm Fatima Tahir 
 
  BS Software Engineering student @ PUCIT (2023–2027) 
-💻 Full Stack Developer — React, ASP.NET Core, RESTful APIs
+ Full Stack Developer — React, ASP.NET Core, RESTful APIs
    AI/ML enthusiast with hands-on experience in scikit-learn, Matplotlib & PyTorch
    Lahore, Pakistan
 
@@ -47,11 +47,5 @@ I love building clean, scalable web apps and integrating intelligent features in
 
 ---
 
-##  Let's connect
-
-[LinkedIn]   (https://linkedin.com/in/fatima-tahir-a77182336)
-[Email]     (mailto:fatimahtahir452@gmail.com)
-
----
 
 ⭐ *Open to React / Full Stack internships and ML collaboration — feel free to reach out!*
