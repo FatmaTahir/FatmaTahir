@@ -12,23 +12,33 @@ I love building clean, scalable web apps and integrating intelligent features in
 ##  Tech Stack
 
 **Frontend**
+
+
 React
 JavaScript
 Tailwind CSS
 Bootstarp
 Blazor
+
 **Backend & APIs**
+
+
 ASP.NET Core
 C#
 C/C++
 Python
 SQL
+
+
+
 **ML / AI**
+
 scikit-learn
 TensorFlow
 PyTorch
 
 **Tools**
+
 Git
 Docker
 Jira
