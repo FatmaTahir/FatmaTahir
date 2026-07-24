@@ -3,6 +3,7 @@
  **BS Software Engineering Student** at PUCIT (2023–2027)
  **Full Stack Developer** specializing in React and ASP.NET Core
  Exploring AI/ML and intelligent software solutions
+ 
  Lahore, Pakistan
 
 ---
