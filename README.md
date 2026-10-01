@@ -94,18 +94,18 @@ A blood donation and management platform designed to connect donors and patients
 
 ## 📊 GitHub Activity
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FatmaTahir\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
-### 📈 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatmaTahir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaTahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### 📅 Contribution Graph
+###  Contribution Graph
 
 <img src="https://ghchart.rshah.org/FatmaTahir" alt="Fatima Tahir's GitHub Contribution Graph" />
 ---
