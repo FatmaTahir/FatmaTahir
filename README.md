@@ -1,18 +1,16 @@
 # Hi, I'm Fatima Tahir 👋
 
-### Software Engineering Student | Full Stack Developer | React & ASP.NET Core
+### Software Engineer | Full Stack Developer | React & ASP.NET Core
 
-🎓 **BS Software Engineering** @ Punjab University College of Information Technology (PUCIT) · 2023–2027
-💻 Building modern, scalable and user-focused web applications
-🚀 Exploring **AI/ML** and intelligent software solutions
-📍 Lahore, Pakistan
+**BS Software Engineering** @ Punjab University College of Information Technology (PUCIT) 
+- Building modern, scalable and user-focused web applications
+- Exploring **AI/ML** and intelligent software solutions
+- Lahore, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatima%20Tahir-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-FatmaTahir-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/FatmaTahir)
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a **Software Engineering student** passionate about building practical software and solving real-world problems through technology.
 
@@ -22,7 +20,7 @@ I believe in learning by building — from academic projects to personal applica
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -60,7 +58,7 @@ I believe in learning by building — from academic projects to personal applica
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🛍️ Scriblia — Full Stack E-Commerce Platform
 
@@ -102,58 +100,37 @@ A blood donation and management platform designed to connect donors and patients
 
 ---
 
-### 📚 StudyPilot — AI-Powered Homework Companion
+##  GitHub Activity
 
-My Final Year Design Project focused on building an AI-powered learning companion for students.
-
-The system is designed to transform school diary information into actionable learning tasks using **OCR, AI, and Retrieval-Augmented Generation (RAG)**.
-
-**Tech:** React · Tailwind CSS · ASP.NET Core · PostgreSQL · Docker · Azure · AI/LLM APIs
-
-**Planned capabilities:**
-
-* Diary image upload
-* OCR-based text extraction
-* AI task generation
-* Coursebook-based question answering
-* Mathematics step-by-step assistance
-* Science quiz generation
-* Student learning dashboard
-* Parent progress insights
-
----
-
-## 📈 GitHub Activity
-
-### 🔥 GitHub Streak
+###  GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FatmaTahir\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatmaTahir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaTahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-### 📅 Contribution Graph
+###  Contribution Graph
 
 [![Fatima's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatmaTahir\&theme=tokyo-night\&hide_border=true)](https://github.com/FatmaTahir)
 
 ---
 
-## 🧩 What I'm Currently Working On
+##  What I'm Currently Working On
 
-* 🔨 Building and improving full-stack web applications
-* 🧠 Learning more about AI/ML and intelligent applications
-* 📚 Strengthening Data Structures & Algorithms
-* 💻 Solving coding problems regularly
-* 🚀 Working on my Final Year Design Project — **StudyPilot**
-* 🌱 Improving software architecture and clean coding practices
+* - Building and improving full-stack web applications
+* - Learning more about AI/ML and intelligent applications
+* - Strengthening Data Structures & Algorithms
+* - Solving coding problems regularly
+* - Working on my Final Year Design Project — **StudyPilot**
+* - Improving software architecture and clean coding practices
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 ```text
 Full Stack Development
@@ -169,23 +146,16 @@ AI / ML + Intelligent Applications
 
 ---
 
-## 🎓 Education
 
-**Punjab University College of Information Technology (PUCIT)**
-Bachelor of Science in Software Engineering
-2023 – 2027
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I am always interested in **learning, collaborating, building projects, and exploring software engineering opportunities**.
 
 If you're working on something interesting, feel free to connect with me.
 
-📧 **Email:** YOUR_EMAIL
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
-🐙 **GitHub:** https://github.com/FatmaTahir
+ **Email:** fatimahtahir452@gmail.com
+ **LinkedIn:*https://www.linkedin.com/in/fatima-tahir-a77182336/?isSelfProfile=true* 
+ **GitHub:** https://github.com/FatmaTahir
 
 ---
 
