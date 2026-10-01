@@ -1,13 +1,6 @@
 # Hi, I'm Fatima Tahir 👋
 
 ### Software Engineer | Full Stack Developer | React & ASP.NET Core
-
-**BS Software Engineering** @ Punjab University College of Information Technology (PUCIT) 
-- Building modern, scalable and user-focused web applications
-- Exploring **AI/ML** and intelligent software solutions
-- Lahore, Pakistan
-
-
 ---
 
 ##  About Me
@@ -153,9 +146,9 @@ I am always interested in **learning, collaborating, building projects, and expl
 
 If you're working on something interesting, feel free to connect with me.
 
- **Email:** fatimahtahir452@gmail.com
+ **Email:*fatimahtahir452@gmail.com* 
  **LinkedIn:*https://www.linkedin.com/in/fatima-tahir-a77182336/?isSelfProfile=true* 
- **GitHub:** https://github.com/FatmaTahir
+ **GitHub:* https://github.com/FatmaTahir*
 
 ---
 
