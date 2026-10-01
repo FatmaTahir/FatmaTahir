@@ -1,19 +1,18 @@
 # Hi, I'm Fatima Tahir 👋
 
 ### Software Engineer | Full Stack Developer | React & ASP.NET Core
----
-
-##  About Me
-
-I am a **Software Engineering student** passionate about building practical software and solving real-world problems through technology.
-
-My primary interests include **Full Stack Development, Software Engineering, and Artificial Intelligence**. I enjoy building responsive web applications, designing RESTful APIs, working with databases, and continuously improving my understanding of software architecture and development practices.
-
-I believe in learning by building — from academic projects to personal applications and coding challenges.
 
 ---
 
-##  Tech Stack
+## ✨ About Me
+
+I am a **Software Engineering student** passionate about building practical software and solving real-world problems through technology. My primary interests include **Full Stack Development, Software Engineering, and Artificial Intelligence**.
+
+I enjoy building responsive web applications, designing RESTful APIs, working with databases, and continuously improving my understanding of software architecture and development practices.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -34,9 +33,9 @@ I believe in learning by building — from academic projects to personal applica
 
 ### Backend & APIs
 
-![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat\&logo=dotnet\&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat\&logo=dotnet\&logoColor=white)
 
 ### Databases & Tools
@@ -51,11 +50,11 @@ I believe in learning by building — from academic projects to personal applica
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 ### 🛍️ Scriblia — Full Stack E-Commerce Platform
 
-A modern stationery e-commerce application built with React and ASP.NET Core.
+A modern stationery e-commerce application built with **React and ASP.NET Core**.
 
 **Tech:** React · ASP.NET Core · .NET 8 · SQL Server · Entity Framework Core · JWT · Tailwind CSS
 
@@ -69,8 +68,8 @@ A modern stationery e-commerce application built with React and ASP.NET Core.
 * Authentication and authorization
 * Admin product and order management
 
-🔗 **Live:** https://scriblia-stationery.vercel.app/
-🔗 **Repository:** https://github.com/FatmaTahir/Scriblia
+🔗 **Live:** [Scriblia](https://scriblia-stationery.vercel.app/)
+🔗 **Repository:** [GitHub](https://github.com/FatmaTahir/Scriblia)
 
 ---
 
@@ -89,41 +88,41 @@ A blood donation and management platform designed to connect donors and patients
 * Secure authentication
 * Database-driven application architecture
 
-🔗 **Repository:** https://github.com/FatmaTahir/MediBlood-Connect
+🔗 **Repository:** [GitHub](https://github.com/FatmaTahir/MediBlood-Connect)
 
 ---
 
-##  GitHub Activity
+## 📊 GitHub Activity
 
-###  GitHub Streak
+### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FatmaTahir\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
-###  GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatmaTahir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaTahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-###  Contribution Graph
+### 📅 Contribution Graph
 
 [![Fatima's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatmaTahir\&theme=tokyo-night\&hide_border=true)](https://github.com/FatmaTahir)
 
 ---
 
-##  What I'm Currently Working On
+## 💻 What I'm Currently Working On
 
-* - Building and improving full-stack web applications
-* - Learning more about AI/ML and intelligent applications
-* - Strengthening Data Structures & Algorithms
-* - Solving coding problems regularly
-* - Working on my Final Year Design Project — **StudyPilot**
-* - Improving software architecture and clean coding practices
+* Building and improving full-stack web applications
+* Learning more about AI/ML and intelligent applications
+* Strengthening Data Structures & Algorithms
+* Solving coding problems regularly
+* Working on my Final Year Design Project — **StudyPilot**
+* Improving software architecture and clean coding practices
 
 ---
 
-##  Areas of Interest
+## 🎯 Areas of Interest
 
 ```text
 Full Stack Development
@@ -139,16 +138,21 @@ AI / ML + Intelligent Applications
 
 ---
 
-
-## Let's Connect
+## 🤝 Let's Connect
 
 I am always interested in **learning, collaborating, building projects, and exploring software engineering opportunities**.
 
-If you're working on something interesting, feel free to connect with me.
-
- **Email:*fatimahtahir452@gmail.com* 
- **LinkedIn:*https://www.linkedin.com/in/fatima-tahir-a77182336/?isSelfProfile=true* 
- **GitHub:* https://github.com/FatmaTahir*
+<p align="left">
+  <a href="mailto:fatimahtahir452@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fatima-tahir-a77182336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/FatmaTahir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
