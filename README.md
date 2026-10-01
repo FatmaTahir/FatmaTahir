@@ -105,9 +105,6 @@ A blood donation and management platform designed to connect donors and patients
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaTahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-###  Contribution Graph
-
-<img src="https://ghchart.rshah.org/FatmaTahir" alt="Fatima Tahir's GitHub Contribution Graph" />
 ---
 
 ## 💻 What I'm Currently Working On
